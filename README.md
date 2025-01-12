@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Leet Code Problems & Resume Worthy Projects**
 
-- 🌱 I’m currently learning **ReactJS, NextJS, TailwindCSS & Firebase :D**
+- 🌱 I’m currently learning **ReactJS, NextJS, TailwindCSS, Firebase, Typescript, and Java :D**!
 
 - 📫 How to reach me **tarkan.zarrouk@gmail.com**
 
