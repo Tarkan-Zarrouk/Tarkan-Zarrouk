@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Tarkan Zarrouk</h1>
-<h3 align="center">18 Year old Self Taught Web Developer from Canada!</h3>
+<h2>Hi, I'm Tarkan.</h2>
+<p>I'm a student at Carleton University pursuing a double degree in Computer Science and Pure Mathematics.</p>
 
-- 🔭 I’m currently working on **Leet Code Problems & Resume Worthy Projects**
-
-- 📫 How to reach me **tarkan.zarrouk@gmail.com**
+<p>Here are some facts:</p>
+<ul>
+  <li>I'm 18 years old</li>
+  <li>I'm fluent in Java, Python, and JavaScript (TypeScript as well)</li>
+  <li>I <emph>enjoy</emph> proofs.</li>
+</ul>
